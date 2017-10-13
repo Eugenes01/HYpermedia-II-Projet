@@ -1,2 +1,4 @@
-# HYpermedia-II-Projet
+# Hypermedia-II-Projet
 Misfits Team Project
+
+Well its started!
