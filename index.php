@@ -3,7 +3,7 @@
 <body>
 
 <h1>Hypermedia-II-Projet</h1>
-<p>blablabla</p>
+<p>blablabla Yay!</p>
 
 </body>
 </html> 
