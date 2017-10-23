@@ -12,21 +12,12 @@
 </head>
 <body>
 	<div >
-		<!--Bannière-->
 		<header>
-				<h1>Projet Aéroport</h1>			
+			<h1>Projet Aéroport</h1>			
 		</header>	
+		<section>
+			<div>
 
-		<section class="main">
-			<!--Affiche les images-->
-			<div class="pictures">
-				<?php foreach ($pictures as $pic):?> 
-					<div class="thumb">
-						<a href="picPage.php? id=<?php echo $pic['picID']; ?> p=<?php echo $actual_page; ?>">
-						<img src="../pictures/<?php echo $pic['picPath'] ?>" alt="<?php echo $pic['picName'] ?>">
-						</a>
-					</div>
-				<?php endforeach;?>
 			</div>
 		</section>
 		<footer>
